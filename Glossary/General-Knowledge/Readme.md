@@ -114,38 +114,48 @@ Source: https://chatgpt.com/share/68505a78-0fc0-8007-a097-3e922c5b88bf
 
 Date: 16/06/2025
 
-The human eye has two key performance characteristics: resolution and field of view (FOV). Here’s what they are and the best current estimates:
+# Human Eye: Resolution and Field of View (FOV)
 
-⸻
+The human eye has two key performance characteristics: **resolution** and **field of view (FOV)**. Here’s what they are and the best current estimates:
 
-👁️ 1. Visual Resolution (Sharpness / Detail Perception)
-	•	Angular resolution (the ability to distinguish two points):
-≈ 1 arcminute (1/60 of a degree) in the fovea, the central part of the retina.
-	•	Pixel-equivalent resolution (approximate for comparison with digital displays):
-If you model the eye as a spherical retina capturing a 120° horizontal FOV and consider foveal detail:
-🟢 Theoretical equivalent: ~576 megapixels
-But most of that detail is only in the center (fovea); peripheral vision is lower resolution.
+---
 
-	•	Realistically useful resolution across wide vision: closer to 5–15 megapixels when eye and brain integration is factored in.
+## 👁️ 1. Visual Resolution (Sharpness / Detail Perception)
 
-⸻
+- **Angular resolution** (the ability to distinguish two points):  
+  ≈ **1 arcminute** (1/60 of a degree) in the **fovea**, the central part of the retina.
 
-👁️ 2. Field of View (FOV)
-	•	Monocular (one eye):
-	•	Horizontal: ~150°
-	•	Vertical: ~120°
-	•	Binocular (both eyes combined):
-	•	Horizontal FOV: ~200° total
-	•	~120° with binocular overlap (depth perception zone)
-	•	Remaining 40° on each side is peripheral vision from one eye
-	•	Vertical FOV: ~135°
+- **Pixel-equivalent resolution** (approximate for comparison with digital displays):  
+  If you model the eye as a spherical retina capturing a 120° horizontal FOV and consider foveal detail:  
+  🟢 **Theoretical equivalent**: ~**576 megapixels**  
+  *But most of that detail is only in the center (fovea); peripheral vision is lower resolution.*
 
-⸻
+- **Realistically useful resolution** across wide vision:  
+  Closer to **5–15 megapixels** when eye and brain integration is factored in.
 
-⚡ Summary Table
+---
 
-Parameter	Value
-Angular Resolution	~1 arcminute (fovea)
-Megapixel Equivalent	~576 MP (theoretical), ~5–15 MP useful
-Horizontal FOV	~200° (binocular), ~150° (monocular)
-Vertical FOV	~135° (binocular), ~120° (monocular)
+## 👁️ 2. Field of View (FOV)
+
+- **Monocular (one eye):**
+  - Horizontal: ~**150°**
+  - Vertical: ~**120°**
+
+- **Binocular (both eyes combined):**
+  - Horizontal FOV: ~**200°** total
+    - ~**120°** with binocular overlap (depth perception zone)
+    - Remaining ~**40°** on each side is peripheral vision from one eye
+  - Vertical FOV: ~**135°**
+
+---
+
+## ⚡ Summary Table
+
+| Parameter             | Value                                      |
+|-----------------------|--------------------------------------------|
+| Angular Resolution    | ~**1 arcminute** (fovea)                   |
+| Megapixel Equivalent  | ~**576 MP** (theoretical), **5–15 MP** useful |
+| Horizontal FOV        | ~**200°** (binocular), ~**150°** (monocular) |
+| Vertical FOV          | ~**135°** (binocular), ~**120°** (monocular) |
+
+---
